@@ -1,0 +1,17 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    align-items: center;
+}
+
+#game-UI {
+    display: flex;
+    align-items: center;
+    column-gap: 10vw;
+}
+
+#game-UI button {
+    color: #fff;
+    font-size: 18px;
+    background-color: blueviolet;
+}
